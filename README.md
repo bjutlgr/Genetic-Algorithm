@@ -1,6 +1,7 @@
 ECE3090-Assignment-5-Genetic-Algorithm
 ======================================
 Author: Peihsun (Ben) Yeh
+
 Implements a genetic algorithm for pathfinding
 
 Summary
